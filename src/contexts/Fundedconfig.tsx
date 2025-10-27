@@ -1,6 +1,7 @@
 // export const FundedAddress = "0x45D62B999cc8c631bD7CbD7AAaC109840A52Af6D"
+// export const FundedAddress = "0x576B125159e8A28a713B9517CC5673Ec8AA2A43c"
 
-export const FundedAddress = "0x576B125159e8A28a713B9517CC5673Ec8AA2A43c"
+export const FundedAddress = "0x2684Ef2842Aa64ca2793854C20e28FBF6E95F334" //Deployed on Base Mainnet.
 
 
  export const FundedABI = [
