@@ -198,7 +198,7 @@ export const CampaignProvider: React.FC<{ children: React.ReactNode }> = ({ chil
           campaign.category
         ],
         account: activeAccount as `0x${string}`,
-        value: parseEther("10") 
+        value: parseEther("0.0001") 
       });
       
       console.log("Campaign registration transaction hash:", hash);
