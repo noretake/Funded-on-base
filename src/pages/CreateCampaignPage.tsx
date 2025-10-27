@@ -398,8 +398,8 @@ const CreateCampaignPage: React.FC = () => {
                         e.currentTarget.style.boxShadow = 'none';
                       }
                     }}
-                    placeholder="10"
-                    min="10"
+                    placeholder="0.1"
+                    min="0.001"
                     step="0.1"
                   />
                 </div>
